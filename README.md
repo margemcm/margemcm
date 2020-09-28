@@ -1,4 +1,5 @@
 Associate Software Engineer @ Boomtown!
+Volunteer co-teacher with TEALS @ CCSMS
 
 <!--
 **margemcm/margemcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
