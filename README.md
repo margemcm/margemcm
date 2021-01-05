@@ -1,4 +1,4 @@
-Associate Software Engineer @ Boomtown!  
+Software Engineer @ Boomtown!  
 Volunteer co-teacher with TEALS @ CCSMS
 
 <!--
